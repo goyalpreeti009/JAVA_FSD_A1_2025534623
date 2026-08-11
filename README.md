@@ -23,6 +23,11 @@ Repository for tracking daily learning, code practices, assignments, and project
 | `Module-03-Web-Dev` | HTML5, CSS3, JS, React | ⚪ Planned |
 | `Projects` | Capstone and End-of-Module Assignments | ⚪ Planned |
 
+
+## ✍️ Author
+
+**Preeti Goyal**
+- **GitHub:** [@goyalpreeti009](https://github.com/goyalpreeti009)
 ---
 
 ## 🚀 Daily Workflow (VS Code to GitHub)
