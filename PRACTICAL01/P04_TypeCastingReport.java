@@ -1,4 +1,4 @@
-package PRACTICALS;
+package PRACTICAL01;
 
 public class P04_TypeCastingReport {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package PRACTICALS;
+package PRACTICAL01;
 import java.util.Scanner;
 
 public class P03_SwapWithoutThirdVar {
